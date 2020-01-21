@@ -1,0 +1,27 @@
+class Face:
+    eyeOrder = 0;
+    eyebrowOrder = 0;
+    mouthOrder = 0;
+    faceOrder = 0;
+    noseOrder = 0;
+
+    # Bezier curve control points. Matrices are 2 x order.
+    eye = []
+    eyeBrow = []
+    mouth = []
+    face = []
+    nose = []
+
+    def calcBezier(controlPoints):
+        bezierCurve = np.zeros(100,2))
+        bezierOrder = len(controlPoints)-1
+
+        for t in range(0,100)
+            sumX = 0
+            sumY = 0
+            for k in range(0,bezierOrder)
+               binCof = binomCoeff(bezierOrder,k)
+               sumX = sumX + (binCof*((1-t)**(bezierOrder-k))*(t**k)
+
+        return bezierCurve
+ 

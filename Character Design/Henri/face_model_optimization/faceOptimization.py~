@@ -1,0 +1,85 @@
+########################################################################
+# HUMAN FEMALE BEAUTY OPTIMIZATION PROGRAM
+########################################################################
+# Female anime-style face has been parameterized. With human input, this
+# program finds the global optimum face structure via gradient descent.
+#
+# Parameters
+# For each of (eye, mouth, nose, eyebrow, face outline):
+# 1. Order of bezier curve
+# 2. x and y position of bezier curve.
+# 
+#
+########################################################################
+# [DEFUNCT] Well-defined approach; Too many parameters. I'm lazy. The
+# previous (new) approach is more general, less parameters, but will
+# require more "computation" as a result.
+#
+# The face parameters are labeled in an image. They are listed here with
+# their ranges of possible values:
+# 1. Eye y-position.
+# 2. Eye x-position.
+# 3. Mouth y-position.
+# 4. Eyebrow mid-thickness.
+# 5. Eyebrow first length.
+# 6. Eyebrow second length.
+# 7. Eyebrow tip x y-position.
+# 8. Eyebrow Inner upper corner x position.
+# 9. Eyebrow inner height.
+# 10. Mouth peak x-position.
+# 11. Mouth peak vertical distance from center.
+# 12. Mouth bottom vertical distance from center.
+# 13. Mouth top color (R). 
+# 14. Mouth corner vertical distance from center.
+# 15. Mouth corner horizontal distance from center.
+# 16. Mouth bottom corner x position.
+# 17. Mouth top color (G).
+# 18. Mouth top color (B).
+# 19. Mouth bottom color (R).
+# 20. Mouth bottom color (G).
+# 21. Mouth bottom color (B).
+# 22. Mouth bottom corner y position.
+# 23. Face bottom corner x position. (bezier curve point P3 and P5)
+# 24. Face bottom corner y position. (bezier curve point P3 and P5)
+# 25. Face bottom y position. (bezier curve point P4)
+# 26. Face side x position. (bezier curve point P2 and P6)
+# 27. Face Bezier order (7k where k > 0)
+# 28. 
+#
+########################################################################
+
+import numpy
+import math
+
+class Face:
+    eyeOrder = 0;
+    eyebrowOrder = 0;
+    mouthOrder = 0;
+    faceOrder = 0;
+    noseOrder = 0;
+
+    # Bezier curve control points. Matrices are 2 x order.
+    eye = []
+    eyeBrow = []
+    mouth = []
+    face = []
+    nose = []
+
+    def binomCoeff(n, k):
+        return output = factorial(n)/(factorial(k)*factorial(n-k))
+
+    def calcBezier(controlPoints):
+        t = 100;
+        bezierCurve = []
+        
+        return bezierCurve
+        
+    
+def main():
+    print(binomCoeff(1))
+       # plot current state
+       # find gradient
+       # move to next state 
+       
+
+main()
