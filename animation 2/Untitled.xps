@@ -1,0 +1,74 @@
+<xsheet version="4.0">
+<settings>
+	<fps>12</fps>
+	<step>1</step>
+	<numbering>frame</numbering>
+	<color>0</color>
+	<format>png</format>
+	<path>C:\Users\Henri Bouchard\Documents</path>
+</settings>
+<audio>
+</audio>
+<layers cols="1">
+	<layer col="1" caption="Layer 1" dir="C:\Users\Henri Bouchard\Google Drive\tempDraw\frames\" color="0" visible="1">
+		<cel col="1" row="1" duration="1">0001.png</cel>
+		<cel col="1" row="2" duration="1">0002.png</cel>
+		<cel col="1" row="3" duration="1">0003.png</cel>
+		<cel col="1" row="4" duration="1">0004.png</cel>
+		<cel col="1" row="5" duration="1">0005.png</cel>
+		<cel col="1" row="6" duration="1">0006.png</cel>
+		<cel col="1" row="7" duration="1">0007.png</cel>
+		<cel col="1" row="8" duration="1">0008.png</cel>
+		<cel col="1" row="9" duration="1">0009.png</cel>
+		<cel col="1" row="10" duration="1">0010.png</cel>
+		<cel col="1" row="11" duration="1">0011.png</cel>
+		<cel col="1" row="12" duration="1">0012.png</cel>
+		<cel col="1" row="13" duration="1">0013.png</cel>
+		<cel col="1" row="14" duration="1">0014.png</cel>
+		<cel col="1" row="15" duration="1">0015.png</cel>
+		<cel col="1" row="16" duration="1">0016.png</cel>
+		<cel col="1" row="17" duration="1">0017.png</cel>
+		<cel col="1" row="18" duration="1">0018.png</cel>
+		<cel col="1" row="19" duration="1">0019.png</cel>
+		<cel col="1" row="20" duration="1">0018.png</cel>
+		<cel col="1" row="21" duration="1">0019.png</cel>
+		<cel col="1" row="22" duration="1">0018.png</cel>
+		<cel col="1" row="23" duration="1">0019.png</cel>
+		<cel col="1" row="24" duration="1">0018.png</cel>
+		<cel col="1" row="25" duration="1">0019.png</cel>
+		<cel col="1" row="26" duration="1">0018.png</cel>
+		<cel col="1" row="27" duration="1">0019.png</cel>
+		<cel col="1" row="28" duration="1">0018.png</cel>
+		<cel col="1" row="29" duration="1">0019.png</cel>
+		<cel col="1" row="30" duration="1">0018.png</cel>
+		<cel col="1" row="31" duration="1">0019.png</cel>
+		<cel col="1" row="32" duration="1">0018.png</cel>
+		<cel col="1" row="33" duration="1">0019.png</cel>
+		<cel col="1" row="34" duration="1">0020.png</cel>
+		<cel col="1" row="35" duration="1">0021.png</cel>
+		<cel col="1" row="36" duration="1">0022.png</cel>
+		<cel col="1" row="37" duration="1">0023.png</cel>
+		<cel col="1" row="38" duration="1">0022.png</cel>
+		<cel col="1" row="39" duration="1">0021.png</cel>
+		<cel col="1" row="40" duration="1">0020.png</cel>
+		<cel col="1" row="41" duration="1">0021.png</cel>
+		<cel col="1" row="42" duration="1">0022.png</cel>
+		<cel col="1" row="43" duration="1">0023.png</cel>
+		<cel col="1" row="44" duration="1">0022.png</cel>
+		<cel col="1" row="45" duration="1">0021.png</cel>
+		<cel col="1" row="46" duration="1">0020.png</cel>
+		<cel col="1" row="47" duration="1">0021.png</cel>
+		<cel col="1" row="48" duration="1">0022.png</cel>
+		<cel col="1" row="49" duration="1">0023.png</cel>
+		<cel col="1" row="50" duration="1">0022.png</cel>
+		<cel col="1" row="51" duration="1">0021.png</cel>
+		<cel col="1" row="52" duration="1">0020.png</cel>
+		<cel col="1" row="53" duration="1">0021.png</cel>
+		<cel col="1" row="54" duration="1">0022.png</cel>
+		<cel col="1" row="55" duration="1">0023.png</cel>
+		<cel col="1" row="56" duration="1">0022.png</cel>
+		<cel col="1" row="57" duration="1">0021.png</cel>
+		<cel col="1" row="58" duration="1">0020.png</cel>
+	</layer>
+</layers>
+</xsheet>
